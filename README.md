@@ -1,4 +1,4 @@
 
-# ServiceFabricPOC
+#Testing Repo
 
-Repository for managing application code of ServiceFabricPOC.
+Repository for managing application code of Test application.
